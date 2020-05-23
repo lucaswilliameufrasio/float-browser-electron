@@ -1,0 +1,14 @@
+{
+  "name": "float-browser-electron",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "git@github.com:lucaswilliameufrasio/float-browser-electron.git",
+  "author": "Lucas William <lucaswilliameufrasio@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^9.0.0"
+  }
+}
